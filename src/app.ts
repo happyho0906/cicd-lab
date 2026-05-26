@@ -22,3 +22,4 @@ export function buildApp(options: FastifyServerOptions = {}) {
   return app;
 }
 const wrong: number = "abc";
+const wrong: number = "abc";
